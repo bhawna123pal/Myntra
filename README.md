@@ -3,7 +3,7 @@ Data source- Kaggle
 
 Features:-
 
-    I have 3 years date of myntra sales i have put a filter on year where you can select a year that will show you the report that you have seleted.
+    I have 3 years data of myntra sales i have put a filter on year where you can select a year that will show you the report that you have seleted.
 
     Total monthly sales by categories and Total sales by state.
 
